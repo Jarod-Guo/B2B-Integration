@@ -1,3 +1,4 @@
+#https://stackoverflow.com/questions/43186129/importing-csv-file-data-into-influxdb
 import datetime
 import random
 import time
